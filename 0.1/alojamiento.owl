@@ -60,7 +60,7 @@ Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suf
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</dc:title>
         <dc:creator>Víctor Morlán (Ayuntamiento de Zaragoza)</dc:creator>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/""/>
+        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl"/>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento#"/>
         <owl:versionIRI rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento/0.1"/>
