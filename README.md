@@ -13,4 +13,6 @@ Por tanto, se pretende con esto llevar un control de cambios entre versiones.
 * [11/03/2018] Creación del repositorio e importación de la última versión almacenada en el antiguo repositorio.
 * [12/03/2018] Actualización de referencias a las URIs donde se encuentra publicada la última versión.
 * [26/04/2018] Registro del repositorio en OnToology para la generación de documentación.
-* [12/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[Clean Update #2]](https://github.com/opencitydata/turismo-alojamiento/pull/2)
+* [12/05/2018] Reorganización de carpetas [[Clean Update #2]](https://github.com/opencitydata/turismo-alojamiento/pull/2)
+* [18/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[Actualización de documentación]](https://github.com/opencitydata/turismo-alojamiento/commit/0384b9e8c13c4afc91227926c852a0ae1df580a2)
+
