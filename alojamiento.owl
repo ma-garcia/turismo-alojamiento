@@ -58,6 +58,12 @@ Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suf
         <owl:versionInfo xml:lang="es">Esta ontología surge de la necesidad de representar información detallada sobre alojamientos en una ciudad</owl:versionInfo>
         <dc:creator>Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)</dc:creator>
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</dc:title>
+		<dc:description>Vocabulario para la representación de datos sobre alojamientos en España
+Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
+Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
+- schema.org
+- geoNames
+- cruzar</dc:description>
         <dc:creator>Víctor Morlán (Ayuntamiento de Zaragoza)</dc:creator>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/"/>
