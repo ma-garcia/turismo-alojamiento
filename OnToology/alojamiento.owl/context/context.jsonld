@@ -69,7 +69,7 @@
       "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
     },
     "title" : {
-      "@id" : "http://purl.org/dc/elements/1.1/title"
+      "@id" : "http://purl.org/dc/terms/title"
     },
     "type" : {
       "@id" : "http://purl.org/dc/terms/type",
@@ -89,6 +89,9 @@
     },
     "hasFormat" : {
       "@id" : "http://purl.org/dc/terms/hasFormat"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/terms/description"
     },
     "preferredNamespaceUri" : {
       "@id" : "http://purl.org/vocab/vann/preferredNamespaceUri"
