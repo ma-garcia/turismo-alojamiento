@@ -19,10 +19,16 @@
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-15</dc:date>
         <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento</dc:identifier>
         <dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
-        <dc:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</dc:title>
+        <terms:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vocabulario para la representación de datos sobre alojamientos en España
+Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
+Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
+- schema.org
+- geoNames
+- cruzar</terms:description>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl"/>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/"/>
         <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-15</terms:issued>
+        <terms:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</terms:title>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento#"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">Vocabulario para la representación de datos sobre alojamientos en España
 Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios

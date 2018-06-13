@@ -15,10 +15,16 @@
                                                                     <http://purl.org/dc/elements/1.1/date> "2014-09-15"^^xsd:dateTime ;
                                                                     <http://purl.org/dc/elements/1.1/identifier> "http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento"^^xsd:dateTime ;
                                                                     <http://purl.org/dc/elements/1.1/rights> "Creative Commons Attribution 4.0 International (CC BY 4.0)"^^xsd:string ;
-                                                                    <http://purl.org/dc/elements/1.1/title> "Vocabulario para la representación de datos sobre alojamiento"@es ;
+                                                                    <http://purl.org/dc/terms/description> """Vocabulario para la representación de datos sobre alojamientos en España
+Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
+Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
+- schema.org
+- geoNames
+- cruzar"""^^xsd:string ;
                                                                     <http://purl.org/dc/terms/hasFormat> <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl> ,
                                                                                                          <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/> ;
                                                                     <http://purl.org/dc/terms/issued> "2014-09-15"^^xsd:dateTime ;
+                                                                    <http://purl.org/dc/terms/title> "Vocabulario para la representación de datos sobre alojamiento"@es ;
                                                                     <http://purl.org/vocab/vann/preferredNamespaceUri> : ;
                                                                     rdfs:comment """Vocabulario para la representación de datos sobre alojamientos en España
 Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
